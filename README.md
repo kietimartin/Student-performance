@@ -68,4 +68,4 @@ This script provides a basic exploration and visualization of the student perfor
 * Investigating the reasons behind the lack of a strong correlation between study hours and final grades.
 * Exploring other potential factors that might influence final grades.
 * Performing statistical tests to determine the significance of observed differences between groups (e.g., students with and without school support).
-* Building predictive models to forecast student performance.
+* Building predictive models to forecast student performance. 
